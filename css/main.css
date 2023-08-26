@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+}
+.table{
+margin-top: 20px;
+}
+.card{
+    background-color: #333;
+    color: white;
+    font-weight: bold;
+    
+}
+.card .form-group{
+    margin: 10px 0;
+}
